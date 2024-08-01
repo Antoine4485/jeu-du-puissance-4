@@ -1,0 +1,1 @@
+Il faut se déplacer dans le répertoire contenant le fichier puissance4.py et exécuter la commande : python.exe puissance4.py
